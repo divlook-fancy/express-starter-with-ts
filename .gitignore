@@ -1,0 +1,6 @@
+!.gitignore
+node_modules
+log
+
+# vscode의 local-history 플러그인으로 생성되는 폴더
+.history
